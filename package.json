@@ -1,0 +1,11 @@
+{
+  "name": "avincheng-web",
+  "version": "0.0.1",
+  "main": "index.html",
+  "author": "Avin Cheng <im@avincheng.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
